@@ -7,7 +7,7 @@ import {
 import { supabase } from "./supabaseClient";
 
 const TURMAS = ["5º A", "5º B", "6º A", "6º B", "7º A", "8º A", "9º A"];
-const PROFESSORES = ["Juci", "Laryssa", "Tainá", "Adriana", "Victor", "Gabriel", "Erlon", "Fabiana", "Iana", "Caio", "Rafaela", "Monique"];
+const PROFESSORES = ["Juci", "Laryssa", "Tainá", "Adriana", "Victor", "Gabriel", "Erlon", "Fabiana", "Iana", "Caio", "Rafaela", "Monique", "Felipe"];
 
 const STATUS = {
   novo: { label: "Novo Registro", color: "bg-red-100 text-red-700 border-red-200", icon: AlertTriangle, dot: "bg-red-500" },
